@@ -48,7 +48,7 @@ Fa b = Mi
 ## Music scales - Definition
 Music scale is an organized sequence of notes. For example: C, D, E, F, G, A, B, C… repeating this cycle. This scale started with the C note and goes following a defined sequence of intervals until the return to the C note again. This sequence of distance was, tone, tone, semitone, tone, tone, tone, semitone… repeating the cycle. This scale is called Major Scale.
 
-![Figure 1-1 ](./Images/music-scales-1024x301.png?raw=true)
+![Figure 1-1 ](./Images/Module-1/music-scales-1024x301.png?raw=true)
 
 The other scales, we have other sequences to be followed.
 "Minor scale" is formed by a the following sequence: tone, semitone, tone, tone, semitone, tone, tone.
@@ -59,7 +59,7 @@ C, D, D#, F, G, G#, A#, C
 
 Now let's check the shapes of major and minor scale
 ## C major scale
-![Figure 1-1](./Images/major-scale2.png?raw=true)
+![Figure 1-1](./Images/Module-1/major-scale2.png?raw=true)
 
 ## C minor scale
-![Figure 1-1](./Images/minor-scale.png?raw=true)
+![Figure 1-1](./Images/Module-1/minor-scale.png?raw=true)
