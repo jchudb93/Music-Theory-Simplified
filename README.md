@@ -1,2 +1,2 @@
 # Music-Theory-Simplified
-Simplified music theory 
+Simplified music theory from http://www.simplifyingtheory.com
